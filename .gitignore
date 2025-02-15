@@ -1,0 +1,13 @@
+# No tener en cuenta archivos config Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Ignorar compilados
+bin/
+target/
+
+# cosas no necesarias
+*.log
+*.tmp
